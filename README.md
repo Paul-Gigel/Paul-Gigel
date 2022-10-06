@@ -5,12 +5,7 @@
 - 💞️ I’m looking for an Internship
 - 📫 You can reach me on p.gigel@bbw-fi.de
 - 🌱 larger Projekts 
-                🌱 In one of my latest Projekts, I am working on my own PHP framework, just for fun and to get in Touch with verios                     Concepts.
-                        I even managed to make my Framework an installable composer module, wich I'm very proud of. 
-                        Even though, my Framework is far from being production ready, I am even sure it has some serios savety flaws, 
-                        it still gave me a pretty good idea about some important concepts used in the wild.
-                🌱 writing a fullstack php framework, using my own PHP Framework
+          php framework from scratch (following youtube tutorial)
+          CHelloTriangle learning how to render hardwareacc., using Vulkan and glfw (following https://vulkan-tutorial.com/, implemented/added some own Ideas)
 - 🍁 actual Projekt
-                🎈 Currently I am learning Vulkan, by trying to draw a Triangle, while praktising my C/C++ knowledge.
-                         
-                
+       🎈vulkan-guide-starting-point learning how to render hardwareacc., using Vulkan and sdl2 in a more objktoriented approach (following https://vkguide.dev/,                   trying to implement some of my own Ideas for softwaredesign and strukturing.)
