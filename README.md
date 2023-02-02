@@ -8,4 +8,5 @@
           php framework from scratch (following youtube tutorial)
           CHelloTriangle learning how to render hardwareacc., using Vulkan and glfw (following https://vulkan-tutorial.com/, implemented/added some own Ideas)
 - 🍁 actual Projekt
-       🎈vulkan-guide-starting-point learning how to render hardwareacc., using Vulkan and sdl2 in a more objktoriented approach (following https://vkguide.dev/,                   trying to implement some of my own Ideas for softwaredesign and strukturing.)
+       🎈vulkan-guide-starting-point learning how to render using hardwareacceleration ., using Vulkan and sdl2 in a more objktoriented approach 
+       (following https://vkguide.dev/, )trying to implement some of my own Ideas for softwaredesign and strukturing.)
