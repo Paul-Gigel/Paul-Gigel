@@ -1,5 +1,6 @@
 👋 Hi, I’m Paul-Gigel
-- 👀 I’m interested in PHP, JS/NodeJS, CSS, HTML, C++, Assambly X86 64 (linux)
+- by now I've gained some experience in PHP, JS/NodeJS, CSS, HTML, C++, Assambly X86 64 (linux)
+- 👀 I’m interested in lowlevel programming.
 - 🌱 I’m currently learning PHP and C/C++
 - 🌱 I’m a trainee.
 - 💞️ I’m looking for an Internship
